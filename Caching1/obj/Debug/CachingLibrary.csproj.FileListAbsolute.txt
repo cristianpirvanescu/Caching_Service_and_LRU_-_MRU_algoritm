@@ -1,0 +1,9 @@
+C:\Projects2\Caching1\Caching1\bin\Debug\Caching1.dll
+C:\Projects2\Caching1\Caching1\bin\Debug\Caching1.pdb
+C:\Projects2\Caching1\Caching1\obj\Debug\Caching1.dll
+C:\Projects2\Caching1\Caching1\obj\Debug\Caching1.pdb
+D:\cristi\Caching1\Caching1\bin\Debug\Caching1.dll
+D:\cristi\Caching1\Caching1\bin\Debug\Caching1.pdb
+D:\cristi\Caching1\Caching1\obj\Debug\CachingLibrary.csproj.CoreCompileInputs.cache
+D:\cristi\Caching1\Caching1\obj\Debug\Caching1.dll
+D:\cristi\Caching1\Caching1\obj\Debug\Caching1.pdb

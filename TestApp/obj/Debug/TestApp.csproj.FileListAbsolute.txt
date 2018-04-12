@@ -1,0 +1,17 @@
+C:\Projects2\Caching1\TestApp\bin\Debug\TestApp.exe.config
+C:\Projects2\Caching1\TestApp\bin\Debug\TestApp.exe
+C:\Projects2\Caching1\TestApp\bin\Debug\TestApp.pdb
+C:\Projects2\Caching1\TestApp\bin\Debug\Caching1.dll
+C:\Projects2\Caching1\TestApp\bin\Debug\Caching1.pdb
+C:\Projects2\Caching1\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+C:\Projects2\Caching1\TestApp\obj\Debug\TestApp.exe
+C:\Projects2\Caching1\TestApp\obj\Debug\TestApp.pdb
+D:\cristi\Caching1\TestApp\bin\Debug\TestApp.exe.config
+D:\cristi\Caching1\TestApp\bin\Debug\TestApp.exe
+D:\cristi\Caching1\TestApp\bin\Debug\TestApp.pdb
+D:\cristi\Caching1\TestApp\bin\Debug\Caching1.dll
+D:\cristi\Caching1\TestApp\bin\Debug\Caching1.pdb
+D:\cristi\Caching1\TestApp\obj\Debug\TestApp.csprojResolveAssemblyReference.cache
+D:\cristi\Caching1\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+D:\cristi\Caching1\TestApp\obj\Debug\TestApp.exe
+D:\cristi\Caching1\TestApp\obj\Debug\TestApp.pdb
